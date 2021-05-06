@@ -5,6 +5,7 @@ public static void main(String[] args) {
 
 	String s="wiki";
 	System.out.println(s);
+	System.out.println("Updated Firsty");
 	
 }
 }
